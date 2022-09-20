@@ -5,13 +5,13 @@ make easily use localStorage and sessionStorage
 ## Install
 
 ```shell
-npm i web-storage-utils
+npm i @vikoala/web-storage-utils
 ```
 
 ## Usage
 
 ```js
-import { local } 'web-storage-utils'
+import { local } '@vikoala/web-storage-utils'
 // set
 local.id = 1
 // get

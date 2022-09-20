@@ -1,5 +1,5 @@
 {
-  "name": "web-storage-utils",
+  "name": "@vikoala/web-storage-utils",
   "version": "1.0.0",
   "description": "make easily use localStorage and sessionStorage",
   "main": "src/index.js",
