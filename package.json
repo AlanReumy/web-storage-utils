@@ -1,0 +1,17 @@
+{
+  "name": "web-storage-utils",
+  "version": "1.0.0",
+  "description": "make easily use localStorage and sessionStorage",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "storage",
+    "javascript",
+    "utils"
+  ],
+  "author": "vikoala",
+  "license": "MIT"
+}
